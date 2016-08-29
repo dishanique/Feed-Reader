@@ -1,3 +1,15 @@
+## Feed Reader Testing
+
+# About:
+Jasmine testing was used as a main source to check against the project functionality. As a Udacity Transcend Award Receipent in the Front-End Developer Nanodegree program, this project was provided to showcase my abilities in test driven developemnt. I've applied my own functionality to test through Jasmine.
+
+# To Run:
+
+You may downlaod a zip file to your computer and open the index.html file in your browser to run.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Provided by Udacity
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
