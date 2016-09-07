@@ -1,7 +1,7 @@
 ## Feed Reader Testing
 
 # About:
-Jasmine testing was used as a main source to check against the project functionality. As a Udacity Transcend Award Receipent in the Front-End Developer Nanodegree program, this project was provided to showcase my abilities in test driven developemnt. I've applied my own functionality to test through Jasmine.
+Jasmine testing was used as a main source to check against the project functionality. As a Udacity Transcend Award Recipient in the Front-End Developer Nanodegree program, this project was provided to showcase my abilities in test driven developemnt. I've applied my own functionality to test through Jasmine.
 
 # To Run:
 
